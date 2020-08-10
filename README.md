@@ -16,15 +16,18 @@ Título | Autor | Edita | ISBN
 Millions, billions, zillions| Brian W. Kernighan| Princenton University Press|98-0-691-18277-3
 Cómo mentir con estadísticas| Darrel Huff | Crítica | 978-84-9892-217-2
 Damned lies and statistics| Joel Best|University of California Press|978-0-520-27470-9
-Spurioues correlations| Tyler Vigen| 
+Spurious correlations| Tyler Vigen| 
 
 
 ## Libros divulgativos:
 
 Título | Autor | Edita | ISBN
 :---:|:---:|:---:|:---:
-Las matemáticas en la vida cotidiana| varios| Addisson-Wesley | 84-7829-020-6
+Las matemáticas en la vida cotidiana(\*)| varios| Addisson-Wesley | 84-7829-020-6
 ¿Qué son las matemáticas?| Richard Courant y Herbert Robbins| Fondo de cultura económica|968-16-6717-4
+
+(\*) Está descatalogado, lo cual es una pena, ya que es un buen libro
+divulgativo.
 
 
 ## Sobre la resolución de problemas:
@@ -61,6 +64,14 @@ Las matemáticas en la vida cotidiana| varios| Addisson-Wesley | 84-7829-020-6
   elevado. Llaman la atención los problemas: no son ejercicios sino problemas.
   En cada uno de ellos te puedes tirar 2-3 horas hasta resolverlos. Solo
   recomendado si te apasiona la geometría. 
+
+
+
+## Estadística
++ *Estadística aplicada básica*, de David S. Moore.
+
+  Libro introductorio de estadística. Trae un montón de ejemplos y evita usar
+  matemáticas. Ideal para el bachillerato de sociales. 
 
 
 # <a name="I-programas"></a>Programas de ordenador
@@ -197,7 +208,7 @@ ejemplos:
    Euclides, que sirve para calcular esos números en general. Es un algoritmo
    muy sencillo pero... queremos que siga siendo secreto :smiling_imp:. 
 
-3. Las raíces cuadradas de números negativos **sí** son números. ¡Existen! ¡No
+3. Las raíces cuadradas de números negativos *sí* son números. ¡Existen! ¡No
    las discriminemos!
 
 4. El método ese que se explica en 1º de la ESO para calcular a mano las raíces 
@@ -216,7 +227,7 @@ ejemplos:
    Newton. De hecho Pascal da una forma muy curiosa de demostrarlo. 
 
    La contribución de Newton es averiguar cuánto vale (a+b)^n cuando el
-   exponente n es un número **cualquiera**. ¿Cuánto vale (1+x) elevado a 1/2?
+   exponente n es un número *cualquiera*. ¿Cuánto vale (1+x) elevado a 1/2?
    A ver si eres capaz de desarrollarlo :smiling_imp: Eso es lo que hizo
    Newton.
 
@@ -256,7 +267,7 @@ ejemplos:
 ## Problemas vs ejercicios
 A pesar de lo que muchos alumnos puedan creer en instituto nunca ponemos
 problemas de matemáticas en clase ni en los exámenes. En España, a diferencia
-de en otros países, no se trabaja la resolución de problemas. Lo que se hace
+de otros países, no se trabaja la resolución de problemas. Lo que se hace
 es dar una serie de recetas para resolver ciertos ejercicios y luego preguntar
 un ejercicio para ver si el alumno ha aprendido la receta. Ejemplo de esto es
 la típica ecuación de segundo grado: para resolverla basta con que memorices
