@@ -54,12 +54,14 @@ divulgativo.
 
 ## Geometría
 + *Los elementos*, de Euclides. 
+
   Libro del siglo III antes de Cristo totalmente
   válido. Se ha usado siempre como ejemplo de cómo razonar. El contenido
   corresponde a geometría de instituto (y un poco más), pero si los lees
   fíjate bien en cómo razona Euclides.
 
 + *Lessons in geometry*, Jacques Hadamard.
+
   Aunque se supone que es un libro para instituto el nivel es bastante
   elevado. Llaman la atención los problemas: no son ejercicios sino problemas.
   En cada uno de ellos te puedes tirar 2-3 horas hasta resolverlos. Solo
