@@ -4,6 +4,7 @@
 * [Programas de ordenador](#I-programas)
 * [Clases y cursos online](#I-cursos)
 * [¿Sabes matemáticas?](#I-preguntas)
+* [Problemas...](#I-problemas)
 
 
 # <a name="I-biblio"></a>Bibliografía
@@ -34,9 +35,10 @@ Las matemáticas en la vida cotidiana| varios| Addisson-Wesley | 84-7829-020-6
     traducción al español de la editorial Trillas, pero es posible que esté
     descatalogada. En inglés fijo se encuentra. 
     
-    + *Mathematical discovery*: son 2 volúmenes, el más interesante el primero. El
+    + *Mathematical discovery*: son 2 volúmenes, el más interesante el primero (aunque
+      el segundo también está muy bien). El
       primer volumen tiene multitud de problemas con los que practicar. Si te
-      gustan los problemas este es sin duda un buen libro.
+      gustan los problemas este es sin duda un buen libro. 
     
     + *Mathematics and plausible reasoning*: 2 volúmenes también.
     
@@ -47,26 +49,70 @@ Las matemáticas en la vida cotidiana| varios| Addisson-Wesley | 84-7829-020-6
   escrito en estilo antiguo con pocos ejemplos... Son mucho mejores los de
   Polya.
 
+## Geometría
++ *Los elementos*, de Euclides. 
+  Libro del siglo III antes de Cristo totalmente
+  válido. Se ha usado siempre como ejemplo de cómo razonar. El contenido
+  corresponde a geometría de instituto (y un poco más), pero si los lees
+  fíjate bien en cómo razona Euclides.
 
++ *Lessons in geometry*, Jacques Hadamard.
+  Aunque se supone que es un libro para instituto el nivel es bastante
+  elevado. Llaman la atención los problemas: no son ejercicios sino problemas.
+  En cada uno de ellos te puedes tirar 2-3 horas hasta resolverlos. Solo
+  recomendado si te apasiona la geometría. 
 
-# Si te gustan los retos...
-* [Canguro matemático](http://www.canguromat.org.es/)
-* [Olimpiadas matemáticas (bachillerato)](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html)
-* [Olimpiadas matemáticas (ESO)](http://www.socylem.es/sitio/index.php/problemas-olimpiadas-phoca)
-* [Prime shooter](http://thinkinghard.com/math/integers/PrimeShooter.html)
 
 # <a name="I-programas"></a>Programas de ordenador
 
-* [GeoGebra](http://www.geogebra.org/)
-* [PhET](http://phet.colorado.edu/en/simulations/category/math)
+## Programas de ordenador
+Los siguientes programas son todos gratuitos:
+
+* [GeoGebra](http://www.geogebra.org/):
+  Programa inicialmente para hacer geometría, aunque ha día de hoy se pueden
+  hacer muchas más cosas (representación de funciones...)
+
+* [PhET](http://phet.colorado.edu/en/simulations/category/math):
+  Un montón de simulaciones de matemáticas y de física. Merece la pena
+  cotillearlas. Muy visuales.
+
+* [Octave](https://www.gnu.org/software/octave/):
+  Versión gratuita de Matlab. Es un programa para manejar matrices. En
+  instituto serviría para 1º/2º de bachillerato para resolver sistemas y
+  operar con matrices. Pero si lo aprendes a manejar puede ser muy útil en
+  carrera.
+
+* [R](https://rstudio.com/):
+  Programa de estadística. Este es raro que lo necesites en instituto.
+
+
+## Juegos
+* [Prime shooter](http://thinkinghard.com/math/integers/PrimeShooter.html):
+  Juego para practicar la factorización de los números primos.
+
 
 
 # <a name="I-cursos"></a>Para aprender online
 
-* [Khan Academy](https://es.khanacademy.org/)
-* [edx](https://www.edx.org/)
-* [coursera](https://www.coursera.org/)
-* [MIT OpenCourseWare](https://www.youtube.com/user/MIT)
+* [Khan Academy](https://es.khanacademy.org/):
+  Si entiendes inglés aquí encontrarás de todo tipo de material, nivel de
+  colegio hasta carrera. En español creo que hay menos, pero puede que merezca
+  la pena cotillearlo. Hace mucho que no lo cotilleo así que no sé qué tal
+  estará ahora.
+
+
+* [edx](https://www.edx.org/):
+  Cursos de todo tipo. La mayoría son de carrera, pero hay algunos de nivel de
+  2º de bachillerato. Mejor si entiendes inglés.
+
+* [coursera](https://www.coursera.org/):
+  Página similar a edx.
+
+* [MIT OpenCourseWare](https://www.youtube.com/user/MIT):
+  Cursos gratuitos del MIT (universidad catalogada sistemáticamente como una
+  de las mejores del mundo en cuestiones de ingeniería). Son de nivel de
+  carrera y en inglés.
+
 
 
 # <a name="I-preguntas"></a>¿Sabes matemáticas?
@@ -203,6 +249,48 @@ ejemplos:
 104. ¡La papiroflexia es geometría! De hecho es la geometría del papel: en
      lugar de regla y compás para dibujar líneas dibujas las líneas doblando
      el papel. ¿Qué dibujos se podrán hacer?
+
+
+# <a name="I-problemas"></a>Problemas
+
+## Problemas vs ejercicios
+A pesar de lo que muchos alumnos puedan creer en instituto nunca ponemos
+problemas de matemáticas en clase ni en los exámenes. En España, a diferencia
+de en otros países, no se trabaja la resolución de problemas. Lo que se hace
+es dar una serie de recetas para resolver ciertos ejercicios y luego preguntar
+un ejercicio para ver si el alumno ha aprendido la receta. Ejemplo de esto es
+la típica ecuación de segundo grado: para resolverla basta con que memorices
+la fórmula esa de x = -b +- ... y aplicarla. No hay que pensar. Un robot
+también puede hacerlo.
+
+¿Qué es un problema? Tienes un problema cuando quieres hacer algo y *no tienes
+ni idea de cómo hacerlo*. 
+
+Para resolver un problema puedes tardar 2-3 horas mínimo e incluso semanas. No
+tienen nada que ver con los ejercicios de clase cuya solución es inmediata.
+
+
+## Ejemplos
+
+1. (de Hadamard) Dadas 3 rectas paralelas dibujar, con regla y compás, un
+   triángulo equilátero inscrito en ellas.
+
+    Y no, no dibujes las 3 líneas equidistantes ya que entonces el problema
+    sería una tontería.
+
+2. (de Euclides) Demostrar el teorema de Pitágoras.
+
+3. (de Euclides) Demostrar el teorema de Tales.
+
+
+
+## Concursos
+
+Si te gustan las matemáticas, ¿por qué no pruebas a participar en algún
+concurso? Los típicos de instituto son:
+* [Canguro matemático](http://www.canguromat.org.es/)
+* [Olimpiadas matemáticas (bachillerato)](http://www.olimpiadamatematica.es/platea.pntic.mec.es/_csanchez/olimmain.html)
+* [Olimpiadas matemáticas (ESO)](http://www.socylem.es/sitio/index.php/problemas-olimpiadas-phoca)
 
 
 
