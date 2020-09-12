@@ -4,6 +4,7 @@
 * [Programas de ordenador](#I-programas)
 * [Clases y cursos online](#I-cursos)
 * [¿Sabes matemáticas?](#I-preguntas)
+* [Las matemáticas ¡son un lío!](#I-lios)
 * [Problemas...](#I-problemas)
 
 
@@ -158,6 +159,10 @@ A continuación van preguntas muy básicas de matemáticas:
 8. Anuncio: "mañana es el día sin IVA". Si el IVA es del 21% ¿qué descuento te
    están haciendo? Y no, no es del 21%, de hecho es menos del 20%.
 
+9. Al hacer un viaje recorres 70 km en la primera hora y 30 km durante las 3
+   horas restantes. ¿A qué velocidad media has ido?
+
+   Puedes usar la calculadora si quieres. Y no, la respuesta no es 40 km/h.
 
 
 ## Magia :astonished:
@@ -262,6 +267,17 @@ ejemplos:
 104. ¡La papiroflexia es geometría! De hecho es la geometría del papel: en
      lugar de regla y compás para dibujar líneas dibujas las líneas doblando
      el papel. ¿Qué dibujos se podrán hacer?
+
+
+# <a name = #I-lios"></a>Las matemáticas ¡son un lío!
+
+10. ¿Cuánto es +10% - 10%? Esto es, si a un número le sumas primero un 10% y
+    luego le quitas el 10% ¿que tanto por cien estás aplicando? Todo el mundo
+    sabe que +10% - 10% = -1%
+
+20. Al duplicar el lado de un cuadrado ¿se duplica su tamaño? No, se
+    cuatriplica. ¿Y si duplicas el lado de un cubo? Obtienes un cubo 8 veces
+    mayor.
 
 
 # <a name="I-problemas"></a>Problemas
