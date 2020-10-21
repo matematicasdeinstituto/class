@@ -1,7 +1,10 @@
-## Útil
+## Datos
 * [Mapa coronavirus (WHO)](https://covid19.who.int/)
 * [Datos COVID en Castilla y León](https://comunicacion.jcyl.es/web/es/comunicados/ultimos-comunicados.html)
 
+
+## OMS
+* [Transmisión del COV-2](https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions)
 
 
 ## Artículos

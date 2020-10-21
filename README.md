@@ -271,7 +271,7 @@ ejemplos:
 
 # <a name="I-lios"></a>Las matemáticas ¡son un lio!
 
-10. ¿Cuánto es +10% - 10%? Esto es, si a un número le sumas primero un 10% y
+1. ¿Cuánto es +10% - 10%? Esto es, si a un número le sumas primero un 10% y
     luego le quitas el 10% ¿que tanto por cien estás aplicando? Todo el mundo
     sabe que +10% - 10% = -1%
 
