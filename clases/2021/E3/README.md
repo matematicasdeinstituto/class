@@ -4,4 +4,5 @@
 En está página iré dejando todo el material necesario para seguir las clases
 online en caso de que nos aislen.
 
-[Tantos por cien: ejercicios](e3_tantos_por_cien_ct.pdf)
+* [Tantos por cien: ejercicios](e3_tantos_por_cien_ct.pdf)
+* [Proporciones: ejercicios](e3_proporciones_ct.pdf)
