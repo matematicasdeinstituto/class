@@ -11,4 +11,4 @@ online en caso de que nos aislen.
 
 * Proporciones: 
     1. [Ejercicios](e3_proporciones_ct.pdf)
-    2. [Problemas de examen](e3_proporciones_ct.pdf)
+    2. [Problemas de examen](e3_proporciones_pe.pdf)
