@@ -8,3 +8,8 @@ online en caso de que nos aislen.
 Fracciones y números decimales:
 * [Ejercicios](e2_fracciones_ct.pdf)
 * [Problemas de examen](e2_fracciones_pe.pdf)
+
+### Examen número 3
+Tantos por cien y proporciones:
+* [Ejercicios](e2_proporciones_ct.pdf)
+
