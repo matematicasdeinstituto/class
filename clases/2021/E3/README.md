@@ -16,4 +16,8 @@ online en caso de que nos aislen.
 
 ### Examen número 3
 * Sucesiones:
-    1. [Ejercicios](e3_sucesiones_ct.pdf)
+    1. [Problemas de examen](e3_sucesiones_pe.pdf)
+
+* Polinomios:
+    1. [Ejercicios](e3_polinomios_ct.pdf)
+    2. [Problemas de examen](e3_polinomios_pe.pdf)
