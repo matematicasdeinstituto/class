@@ -11,5 +11,7 @@ Fracciones y números decimales:
 
 ### Examen número 3
 Tantos por cien y proporciones:
-* [Ejercicios](e2_proporciones_ct.pdf)
+* [Problemas de examen](e2_proporciones_pe.pdf)
 
+Ecuaciones de primer grado (I):
+* [Problemas de examen](e2_ecuaciones1_pe.pdf)
