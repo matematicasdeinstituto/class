@@ -10,3 +10,12 @@ online en caso de que nos aislen.
 
 ### Examen número 3
 2. [Problemas de examen](e1_num_racionales_pe.pdf)
+
+### Examen número 4
+
+Tantos por cien y reglas de 3:
+    * [Ejercicios](e1_proporciones_ct.pdf)
+
+Ecuaciones de primer grado:
+    * [Ejercicios](e1_ecuaciones_ct.pdf)
+
