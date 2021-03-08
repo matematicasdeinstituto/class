@@ -12,3 +12,13 @@
 ### Examen número 3
 * Ecuaciones:
     1. [Ejercicios](e4_ecuaciones_ct.pdf)
+
+### Examen número 4
+* Semejanza
+* Trigonometría
+* Geometría analítica
+
+
+### Examen número 5
+* Funciones:
+    1. [Ejercicios](e4_funciones_ct.pdf)
