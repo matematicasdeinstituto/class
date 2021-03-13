@@ -24,3 +24,7 @@
 * Ecuaciones:
     1. [Ejercicios](e3_ecuaciones_ct.pdf)
 
+### Examen número 5
+* Funciones:
+    1. [Ejercicios](e3_funciones1_ct.pdf)
+
