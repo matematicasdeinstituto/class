@@ -3,7 +3,10 @@
 
 ### Examen número 1
 
-* [Ejercicios](e4_ejercicios.pdf)
+* Números reales:
+    1. [Ejercicios](e4_ejercicios.pdf)
+
+* Potencias.
 
 ### Examen número 2
 * Polinomios:
@@ -22,3 +25,10 @@
 ### Examen número 5
 * Funciones:
     1. [Ejercicios](e4_funciones_ct.pdf)
+
+### Examen número 6
+
+* Estadística descriptiva
+* Combinatoria
+
+

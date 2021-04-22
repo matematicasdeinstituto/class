@@ -1,6 +1,10 @@
 
 # Clases de 2º de la ESO
+### Examen número 1
 
+Números naturales (repaso).
+
+Números enteros (repaso).
 
 ### Examen número 2
 Fracciones y números decimales:
@@ -18,3 +22,13 @@ Ecuaciones de primer grado (I):
 Ecuaciones de primer grado (II), de segundo y sistemas 2x2:
 * [Problemas de examen](e2_ecuaciones2_pe.pdf)
 
+
+### Examen número 5
+Polinomios.
+
+Funciones.
+
+
+### Examen número 6
+
+Geometría.

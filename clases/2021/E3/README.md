@@ -1,5 +1,8 @@
 
 # Clases de 3º de la ESO
+### Examen número 1
+* Números enteros (repaso).
+* Números racionales (repaso).
 
 ### Examen número 2
 * Tantos por cien:
@@ -28,3 +31,10 @@
 * Funciones:
     1. [Ejercicios](e3_funciones1_ct.pdf)
 
+* Estadística.
+
+* Probabilidad.
+
+### Examen número 6
+
+* Geometría.
