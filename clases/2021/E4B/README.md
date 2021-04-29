@@ -28,7 +28,8 @@
 
 ### Examen número 6
 
-* Estadística descriptiva
 * Combinatoria
+* Probabilidad
+* Estadística descriptiva
 
 

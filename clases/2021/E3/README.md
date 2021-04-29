@@ -36,5 +36,11 @@
 * Probabilidad.
 
 ### Examen número 6
+* Geometría 2D:
+    + [Fórmulas (1º ESO)](../E1/e1_geo_formulas_ct.pdf)
+    + [Ejercicios acceso grado medio](e3_geometria_grado_medio.pdf)
+
+* Geometría 3D:
+
 
 * Geometría.

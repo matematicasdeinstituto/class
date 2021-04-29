@@ -34,4 +34,7 @@ Representación de polinomios de primer grado.
 ### Examen número 6
 
 Geometría
+    * [Fórmulas](e1_geo_formulas_ct.pdf)
+
+
 
