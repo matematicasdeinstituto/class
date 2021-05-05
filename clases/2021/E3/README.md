@@ -38,12 +38,10 @@
 ### Examen número 6
 * Geometría:
    + [Fórmulas (1º ESO)](../E1/e1_geo_formulas_ct.pdf)
-   + [Ejercicios acceso grado medio](e3_geometria_grado_medio.pdf)
-   + [Fórmulas (1º ESO)](../E1/e1_geo_formulas_ct.pdf)
    + [Áreas (1º ESO)](../E1/e1_geo_areas_ct.pdf)
    + [Teorema de Pitágoras (1º ESO)](../E1/e1_geo_pitagoras_ct.pdf)
-   + [Teorema de Tales (2º ESO)](e2_geo_tales_ct.pdf)
+   + [Teorema de Tales (2º ESO)](../E2/e2_geo_tales_ct.pdf)
    + [Geometría (3º ESO)](e3_geometria_ct.pdf)
-   + [Ejercicios pruebas acceso de grado medio](e3_geometria_grado_medio_ct.pdf)
+   + [Ejercicios acceso grado medio](e3_geometria_grado_medio_ct.pdf)
    + [No mires esto](e3_geometria_nomires_ct.pdf)
 
