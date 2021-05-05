@@ -32,3 +32,9 @@ Funciones.
 ### Examen número 6
 
 Geometría.
+   * [Fórmulas (1º ESO)](../E1/e1_geo_formulas_ct.pdf)
+   * [Áreas (1º ESO)](../E1/e1_geo_areas_ct.pdf)
+   * [Teorema de Pitágoras (1º ESO)](../E1/e1_geo_pitagoras_ct.pdf)
+   * [Teorema de Tales](e2_geo_tales_ct.pdf)
+
+

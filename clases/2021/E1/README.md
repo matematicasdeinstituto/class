@@ -34,7 +34,8 @@ Representación de polinomios de primer grado.
 ### Examen número 6
 
 Geometría
-    * [Fórmulas](e1_geo_formulas_ct.pdf)
-
+   * [Fórmulas](e1_geo_formulas_ct.pdf)
+   * [Áreas](e1_geo_areas_ct.pdf)
+   * [Teorema de Pitágoras](e1_geo_pitagoras_ct.pdf)
 
 
