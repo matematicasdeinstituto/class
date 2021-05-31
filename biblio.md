@@ -9,7 +9,7 @@ Si bien se podía pensar que leer un libro es la solución, la triste realidad
 es que muchos de los libros editados no explican nada: se limitan a escribir
 4 ecuaciones y resolverlas sin hablar del tema.
 
-En esta página voy a ir referencia de libros que pueden ayudar a empezar.
+En esta página voy a hacer referencia de algunos libros que pueden ayudar a empezar.
 
 Es curioso que si quieres aprender física se encuentra más física en los
 libros del siglo XIX que en los libros actuales, los cuales a veces más
@@ -34,7 +34,7 @@ papel en Amazon por 4-5 euros.
      Aunque habla de todo un poco, merece la pena revisar los 3 capítulos que
      le dedica a la luz. 
   
-  + `A preliminary Discourse on the Stude Of Natural Phylosophy`
+  + `A preliminary Discourse on the Study Of Natural Phylosophy`
 
      Este es un libro más denso centrado en cómo descubrir en ciencia.
 
@@ -71,7 +71,7 @@ papel en Amazon por 4-5 euros.
 * `Make: AVR programming`, de Elliot Williams.
 
   Libro introductorio para aprender a programar microcontroladores AVR.
-  Programa en C. Es completamente introductorio.
+  Programa en C. 
 
 * `Foundations of Analog and Digital Electronic Circuits`, de Anant Agarwal
   and Jeffrey H. Lang.
