@@ -28,8 +28,10 @@
 
 ### Examen número 6
 
-* Combinatoria
-* Probabilidad
+* Combinatoria y probabilidad
+    + [Ejercicios](e4_probabilidad_ct.pdf)
+
 * Estadística descriptiva
+
 
 
