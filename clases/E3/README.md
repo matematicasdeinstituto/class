@@ -1,4 +1,7 @@
-# Clases de 3º de la ESO
+# 3º de la ESO
+
+### Inicio de curso
+
 ### Examen número 1
 * Números enteros (repaso).
 * Números racionales (repaso).

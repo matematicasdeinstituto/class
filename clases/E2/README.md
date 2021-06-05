@@ -1,4 +1,7 @@
-# Clases de 2º de la ESO
+# 2º de la ESO
+
+### Inicio de curso
+
 ### Examen número 1
 
 * Números naturales (repaso).

@@ -1,4 +1,7 @@
-# Clases de 1º de la ESO
+# 1º de la ESO
+
+### Inicio de curso
+
 ### Examen número 1
 * Números naturales
 * Números enteros (I)
