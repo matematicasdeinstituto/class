@@ -45,3 +45,7 @@
    + [Ejercicios acceso grado medio](e3_geometria_grado_medio_ct.pdf)
    + [No mires esto](e3_geometria_nomires_ct.pdf)
 
+
+### Fin de curso
+
+

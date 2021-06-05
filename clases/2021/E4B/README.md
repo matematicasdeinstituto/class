@@ -34,4 +34,8 @@
 * Estadística descriptiva
 
 
+### Fin de curso
+
+* [Repasando](e4_fin_r.pdf)
+
 
