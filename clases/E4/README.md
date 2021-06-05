@@ -1,5 +1,4 @@
 # 4º de la ESO
----
 
 ### Examen número 1
 
