@@ -1,5 +1,3 @@
-# 2º BACHILLERATO DE CIENCIAS
-
 # Clases de 2º de bachillerato de ciencias
 ### Examen número 1
 
