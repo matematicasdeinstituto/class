@@ -48,4 +48,6 @@
 
 ### Fin de curso
 
+* [Repasando](e3_fin_r.pdf)
+
 
