@@ -40,3 +40,7 @@ Geometría.
 
 ### Fin de curso
 
+* [Repasando](e2_fin_r.pdf)
+
+
+
