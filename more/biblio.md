@@ -11,6 +11,9 @@ es que muchos de los libros editados no explican nada: se limitan a escribir
 
 En esta página voy a hacer referencia de algunos libros que pueden ayudar a empezar.
 
+
+
+## Física
 Es curioso que si quieres aprender física se encuentra más física en los
 libros del siglo XIX que en los libros actuales, los cuales a veces más
 parecen libros de religión que tienes que creer lo que te dicen, que libros de
@@ -23,7 +26,6 @@ nivel. Los antiguos se pueden descargar gratuitamente de
 papel en Amazon por 4-5 euros.
 
 
-## Física
 * De Sir John Herschel (siglo XIX):
   + `Outlines Of Astronomy`
 
@@ -103,4 +105,72 @@ papel en Amazon por 4-5 euros.
 
   Libro que revisa las diferentes alternativas que tenemos de generación de
   energía.
+
+
+## Vídeos
+* [Bruce Yeany](https://www.youtube.com/user/YeanyScience/featured):
+
+  Canal de experimentos básicos de física. Tiene experimentos muy sencillos de
+  realizar en casa.
+
+
+* [Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/featured):
+
+  Canal de física de Walter Lewin. Recomendables ver las `Talks for Kids`.
+
+  Y si estás cursando 2º de bachillerato y te interesa la física, puedes
+  encontrar 3 cursos enteros de física (mecánica, electromagnetismo y ondas).
+
+* [Periodic Videos](https://www.youtube.com/user/periodicvideos)
+
+  Canal de química. Puedes encontrar un vídeo mostrando cada elemento de la
+  tabla periódica.
+
+* [Christmas Lectures de la Royal Institution](https://www.rigb.org/christmas-lectures)
+
+  Charlas divulgativas de todo tipo.
+
+* [Harvard Natural Sciences Lecture Demonstrations](https://www.youtube.com/user/NatSciDemos/featured)
+
+  Diferentes experimentos de física.
+
+
+* Buscar a: Julius Sumner Miller.
+
+* Buscar a: Mr. Wizard.
+
+
+* [PSS Committee](https://en.wikipedia.org/wiki/Physical_Science_Study_Committee)
+
+  Ir a la sección de `External links`. Son vídeos desarrollados a mediados del
+  siglo XX como apoyo a las clases de física en instituto. Aunque merece la
+  pena verlos todos especialmente interesante puede ser el de `Frames of
+  Reference` (nivel 2º de bachillerato?).
+
+
+## Cursos online
+
+Se pueden encontrar diferentes plataformas de cursos online. Algunas de ellas
+son:
+
+* [edx](https://www.edx.org/)
+  
+  Los cursos son gratuitos (si eliges la opción free). Ahora dan una opción de
+  pago con la que, creo, te dan un título (que desconozco si servirá para
+  algo). La versión gratuita funciona bien.
+  
+
+* [coursera](https://www.coursera.org/)
+
+  Plataforma parecida a `edx`.
+
+A parte de estas 2 hay más (udacity, miriadax...). Cotillea si tienes interés.
+
+
+## Libros gratuitos
+
+* [archive](https://archive.org/index.php)
+
+  Son libros escaneados procedentes de bibliotecas. 
+
 
