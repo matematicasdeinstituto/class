@@ -3,6 +3,9 @@
 ## Documentos
 * [Ejercicios](probabilidad_ej.pdf)
 
+Para poder abrir los links con las soluciones de los ejercicios tienes que
+descargártelos al ordenador. Después ya podrás pincharlos.
+
 
 ## Planificación
 Pincha en el día para ir a la clase correspondiente:
