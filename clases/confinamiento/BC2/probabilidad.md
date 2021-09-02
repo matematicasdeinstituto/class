@@ -1,7 +1,10 @@
 # Probabilidad
 
 ## Documentos
-* [Ejercicios](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
+* [Ejercicios](probabilidad_ej.pdf)
+
+Para poder abrir los links con las soluciones de los ejercicios tienes que
+descargártelos al ordenador. Después ya podrás pincharlos.
 
 
 ## Planificación
@@ -89,8 +92,6 @@ problemas con la materia que los haga todos.
 ### Corrección de ejercicios
 
 Corregimos los ejercicios del 1 al 4 y del 6 al 15.
-Podéis encontrarlos en el siguiente
-[.pdf](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
 
 
 
@@ -132,8 +133,6 @@ Del 19 al 24 ambos inclusive.
 
 ### Corrección de ejercicios
 Corregimos los ejercicios del 19 al 24.
-Podéis encontrarlos en el siguiente
-[.pdf](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
 
 
 ### Explicación
@@ -155,8 +154,6 @@ Del 25 al 29, ambos inclusive.
 
 ### Corrección de ejercicios
 Corregimos los ejercicios del 25 al 29.
-Podéis encontrarlos en el siguiente
-[.pdf](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
 
 
 ### Explicación
@@ -174,9 +171,7 @@ clase para ir haciendo los deberes.
 ## <a name="C-2804"></a>Clase del 28/04/2020, martes
 
 ### Corrección de ejercicios
-Corregimos los ejercicios del 32 al 40
-Podéis encontrarlos en el siguiente
-[.pdf](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
+Corregimos los ejercicios del 32 al 40.
 
 
 ## <a name="C-2904"></a>Clase del 29/04/2020, miércoles
@@ -209,8 +204,6 @@ Deberes para mañana: del 44 al 49.
 
 ### Corrección de ejercicios
 Corregimos los ejercicios del 44 al 49.
-Podéis encontrarlos en el siguiente
-[.pdf](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
 
 
 ### Explicación
@@ -231,8 +224,6 @@ Deberes para mañana: del 50 al 57.
 ## <a name="C-0504"></a>Clases del 05/04/2020, martes
 ### Corrección de ejercicios
 Corregimos los ejercicios del 50 al 55.
-Podéis encontrarlos en el siguiente
-[.pdf](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
 
 
 ### Explicación
@@ -253,8 +244,6 @@ Hoy no hay deberes.
 
 ### Corrección de ejercicios
 Corregimos los ejercicios del 56 y 57.
-Podéis encontrarlos en el siguiente
-[.pdf](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
 
 
 ### Explicación
@@ -293,8 +282,6 @@ todavía queda un tema que explicar (en una semana da tiempo).
 ## <a name="C-0804"></a>Clases del 08/04/2020, viernes
 ### Corrección de ejercicios
 Corregimos los ejercicios del 58 al 62.
-Podéis encontrarlos en el siguiente
-[.pdf](https://drive.google.com/open?id=1svbiazI-s4tpg8nncSrlf1TsNe_DgqPc).
 
 
 

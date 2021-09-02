@@ -1,7 +1,10 @@
 # Integrales
 
 ## Documentos
-* [Ejercicios](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
+* [Ejercicios](integrales_ej.pdf)
+
+Para poder abrir los links con las soluciones de los ejercicios tienes que
+descargártelos al ordenador. Después ya podrás pincharlos.
 
 
 ## Planificación
@@ -31,18 +34,12 @@ Pincha en el día para ir a la clase correspondiente:
   corregimos. He subido también las correcciones de los ejercicios del 11 al
   14, aunque ya los había corregido para algunos.
 
-  Ya están puestas las soluciones en el fichero 
-  [.pdf](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
-  de los ejercicios imprescindibles.
 
 
 ## <a name="C-1703"></a>Clase del 17/03/2020, martes
 
 ### Corrección de ejercicios
 Ayer me faltó por subir la corrección del ejercicio 17. Ya la tenéis.
-Descargaros de nuevo el fichero
-[.pdf](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
-y os saldrá el link.
 
 ### Explicación
 Ya hemos visto 2 métodos de integración generales: por sustitución y por
@@ -74,9 +71,6 @@ al 32. Como son unos cuantos le dedicaré 2 días y medio a corregirlos.
 
 ### Corrección de ejercicios
 He subido las correcciones de los ejercicios del 18 al 22.
-Descargaros de nuevo el fichero
-[.pdf](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
-y os saldrá el link.
 
 Tengo que pediros perdón ya que he mezclado la forma de hablar: en la
 receta que estoy continuamente mostrando escribo "FUNCIONES ALGEBRAICAS",
@@ -103,9 +97,6 @@ el 32.
 
 ### Corrección de ejercicios
 Hoy corregimos los ejercicios 23 y 24. 
-Descargaros de nuevo el fichero
-[.pdf](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
-y os saldrá los link con la solución.
 
 ### Deberes
 Ejercicios del 25 al 32 inclusive.
@@ -120,9 +111,6 @@ Hoy no explicamos nada. Clase dedicada a corregir ejercicios.
 ### Corrección de ejercicios
 Hoy corregimos los ejercicios 25 al 32. El 29 ya lo había resuelto como un
 ejemplo de clase así que no enlazo el link.
-Descargaros de nuevo el fichero
-[.pdf](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
-y os saldrá los link con la solución.
 
 ### Deberes
 No hay deberes.
@@ -165,9 +153,6 @@ Ejercicios del 33 al 36 ambos inclusive.
 ## Corrección de ejercicios
 
 Hoy corregimos los ejercicios 33 al 36. 
-Descargaros de nuevo el fichero
-[.pdf](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
-y os saldrá los link con la solución.
 
 ## Explicación
 
@@ -197,9 +182,6 @@ días.
 ## Corrección de ejercicios
 
 Hoy corregimos los ejercicios 37 al 41.
-Descargaros de nuevo el fichero
-[.pdf](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
-y os saldrá los link con la solución.
 
 ## Explicación
 
@@ -215,9 +197,6 @@ Del 42 al 46.
 ## Corrección de ejercicios
 
 Hoy corregimos los ejercicios 42 al 47.
-Descargaros de nuevo el fichero
-[.pdf](https://drive.google.com/file/d/13zOS7SE08zw3ENmvUKmr6GVz9NZOH9JI/view?usp=sharing)
-y os saldrá los link con la solución.
 
 
 ## Deberes

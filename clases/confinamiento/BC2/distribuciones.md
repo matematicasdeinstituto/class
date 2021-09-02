@@ -1,7 +1,10 @@
 # Distribuciones de probabilidad
 
 ## Documentos
-* [Ejercicios](https://drive.google.com/open?id=1lyna8ugSi_rx3KCmzsTXyCcS9GYiHbEe)
+* [Ejercicios](distribuciones_ej.pdf)
+
+Para poder abrir los links con las soluciones de los ejercicios tienes que
+descargártelos al ordenador. Después ya podrás pincharlos.
 
 
 ## Planificación
@@ -55,10 +58,6 @@ verlo todo tranquilamente).
 ### Trabajo en clase
 
 Hacer los ejercicios del 1 al 6. 
-He modificado alguna cosa el fichero de los ejercicios
-así que actualizarlo, por favor, es el mismo que antes cambiando un par de
-cosas solo. El archivo lo podéis encontrar en este
-[pdf](https://drive.google.com/open?id=1lyna8ugSi_rx3KCmzsTXyCcS9GYiHbEe)
 
 ## <a name="C-1305"></a>Clase del 13/05/2020
 
@@ -119,8 +118,6 @@ Ejercicios 10 y 11.
 ## <a name="C-1905"></a>Clase del 19/05/2020
 ### Corrección de ejercicios
 Ver la corrección de los ejercicios 10 y 11. 
-Podéis encontrarlos en el siguiente
-[pdf](https://drive.google.com/open?id=1lyna8ugSi_rx3KCmzsTXyCcS9GYiHbEe)
 
 ### Explicación
 **Distribución normal: cálculo de probabilidades**
@@ -140,8 +137,6 @@ Ejercicios del 12 al 19, ambos inclusive.
 
 ### Corrección de ejercicios
 Ver la corrección de los ejercicios 12 al 19.
-Podéis encontrarlos en el siguiente
-[pdf](https://drive.google.com/open?id=1lyna8ugSi_rx3KCmzsTXyCcS9GYiHbEe)
 
 
 ### Explicación
