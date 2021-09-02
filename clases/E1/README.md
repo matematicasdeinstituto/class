@@ -3,34 +3,36 @@
 ### Inicio de curso
 
 ### Examen número 1
-* Números naturales
+* Números naturales:
+  + Problemas de examen
+
 * Números enteros (I)
 
 ### Examen número 2
 * Números enteros (II)
 
 ### Examen número 3
-Números racionales:
+* Números racionales:
 
 ### Examen número 4
 
-Tantos por cien y reglas de 3:
+* Tantos por cien y reglas de 3:
 
-Ecuaciones de primer grado:
+* Ecuaciones de primer grado:
 
 
 ### Examen número 5
 
-Ecuaciones de primer grado con denominadores.
+* Ecuaciones de primer grado con denominadores.
 
-Polinomios. 
+* Polinomios. 
 
-Representación de polinomios de primer grado.
+* Representación de polinomios de primer grado.
 
 
 ### Examen número 6
 
-Geometría
+* Geometría
 
 
 ### Fin de curso
