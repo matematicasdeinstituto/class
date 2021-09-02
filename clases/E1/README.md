@@ -6,33 +6,42 @@
 * Números naturales:
   + Problemas de examen
 
-* Números enteros (I)
+* Números enteros (I):
+  + Problemas de examen
 
 ### Examen número 2
-* Números enteros (II)
+* Números enteros (II):
+  + Problemas de examen
 
 ### Examen número 3
 * Números racionales:
+  + Problemas de examen
 
 ### Examen número 4
 
 * Tantos por cien y reglas de 3:
+  + Problemas de examen
 
 * Ecuaciones de primer grado:
+  + Problemas de examen
 
 
 ### Examen número 5
 
-* Ecuaciones de primer grado con denominadores.
+* Ecuaciones de primer grado con denominadores:
+  + Problemas de examen
 
-* Polinomios. 
+* Polinomios:
+  + Problemas de examen
 
-* Representación de polinomios de primer grado.
+* Representación de polinomios de primer grado:
+  + Problemas de examen
 
 
 ### Examen número 6
 
-* Geometría
+* Geometría:
+  + Problemas de examen
 
 
 ### Fin de curso
