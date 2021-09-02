@@ -4,33 +4,48 @@
 
 ### Examen número 1
 
-* Números reales.
-* Potencias.
+* Números reales:
+  + Problemas de examen.
+
+* Potencias:
+  + Problemas de examen.
+
+* Polinomios (I):
+  + Problemas de examen.
 
 ### Examen número 2
-* Polinomios.
+* Polinomios (II) y fracciones algebráicas:
+  + Problemas de examen.
 
 ### Examen número 3
-* Ecuaciones.
+* Ecuaciones:
+  + Problemas de examen.
 
 ### Examen número 4
-* Semejanza
-* Trigonometría
-* Geometría analítica
+* Semejanza:
+  + Problemas de examen.
+
+* Trigonometría:
+  + Problemas de examen.
+
+* Geometría analítica:
+  + Problemas de examen.
 
 
 ### Examen número 5
-* Funciones.
+* Funciones:
+  + Problemas de examen.
 
 ### Examen número 6
+* Combinatoria y probabilidad:
+  + Problemas de examen.
 
-* Combinatoria y probabilidad
+* Estadística descriptiva:
+  + Problemas de examen.
 
-* Estadística descriptiva
 
 
 ### Fin de curso
-
 * Repasando
 
 

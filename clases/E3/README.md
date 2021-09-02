@@ -3,35 +3,49 @@
 ### Inicio de curso
 
 ### Examen número 1
-* Números enteros (repaso).
-* Números racionales (repaso).
+* Números enteros (repaso):
+  + Problemas de examen.
+
+* Números racionales (repaso):
+  + Problemas de examen.
 
 ### Examen número 2
-* Tantos por cien
-* Proporciones
+* Tantos por cien:
+  + Problemas de examen.
+
+* Proporciones:
+  + Problemas de examen.
 
 
 ### Examen número 3
-* Sucesiones
-* Polinomios
+* Sucesiones:
+  + Problemas de examen.
+
+* Polinomios:
+  + Problemas de examen.
 
 ### Examen número 4
-* Ecuaciones
+* Ecuaciones:
+  + Problemas de examen.
 
 ### Examen número 5
-* Funciones.
+* Funciones:
+  + Problemas de examen.
 
-* Estadística.
+* Estadística:
+  + Problemas de examen.
 
 * Probabilidad:
+  + Problemas de examen.
 
 
 ### Examen número 6
-* Geometría
+* Geometría:
+  + Problemas de examen.
 
 
 ### Fin de curso
-
+* Repasando.
 
 ### A más:
 
