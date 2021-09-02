@@ -1,6 +1,6 @@
 # Estadística inferencial
 ## Documentos
-* [Ejercicios](https://drive.google.com/open?id=1-T9Iv48kTJjsS1MP3kcBgBagobcWL_S0)
+* [Ejercicios](estadistica_inferencial_ej.pdf)
 
 
 ## Planificación
@@ -29,7 +29,7 @@ Los días marcados con x son fiesta no habiendo clase.
 ## <a name="C-2804"></a>Clase del 28/04/2020
 ### Descarga del fichero de ejercicios
 Descargaros el fichero de ejercicios. Ya tiene todas las soluciones. Lo tenéis
-en el siguiente [link](https://drive.google.com/open?id=1-T9Iv48kTJjsS1MP3kcBgBagobcWL_S0)
+en el siguiente [link](estadistica_inferencial_ej.pdf)
 
 ### Explicación
 Como vamos bien de tiempo ver las clases al ritmo que vosotros queráis. Yo os

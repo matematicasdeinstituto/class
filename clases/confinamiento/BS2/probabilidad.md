@@ -1,7 +1,7 @@
 # Probabilidad
 
 ## Documentos
-* [Ejercicios](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
+* [Ejercicios](probabilidad_ej.pdf)
 
 
 ## Planificación
@@ -34,7 +34,7 @@ en casa). Mañana los corregimos.
 
 ### Corrección de ejercicios
 Ya están puestas las soluciones de los deberes en el fichero 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
+[.pdf](probabilidad_ej.pdf)
 de los ejercicios imprescindibles. Corregirlos. Tenéis que ir hasta el
 ejercicio, por ejemplo el número 32 y al lado aparece un link que pone
 "Solución", pinchar sobre él y os redirigirá al video con la solución.
@@ -76,7 +76,7 @@ Deberes para pasado mañana: del 50 al 55.
 
 ### Corrección de ejercicios
 Corrección de los ejercicios del 44 al 49. Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
+[.pdf](probabilidad_ej.pdf)
 y os aparecerán las soluciones. Ya he añadido también las soluciones del 50
 al 55, pero esos son los deberes para mañana.
 
@@ -96,9 +96,7 @@ Deberes para mañana: del 50 al 57.
 
 ## <a name="C-0323"></a>Clases del 23/03/2020, lunes
 ### Corrección de ejercicios
-Corrección de los ejercicios del 50 al 55 . Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
-y os aparecerán las soluciones.  Mañana corregimos el 56 y el 57.
+Corrección de los ejercicios del 50 al 55.  Mañana corregimos el 56 y el 57.
 
 ### Explicación
 Todo lo explicado hasta el momento era un repaso de lo visto hasta 1º de
@@ -123,9 +121,6 @@ Reunión a las 12:00 en [Microsoft
 
 ### Corrección de ejercicios
 Corrección de los ejercicios 56 y 57 (podéis dejarlos para mañana si queréis).
-Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
-y os aparecerán las soluciones.  
 
 ### Explicación
 Todo lo explicado hasta el momento era un repaso de lo visto hasta 1º de
@@ -156,9 +151,8 @@ a corregirlos.
 
 ## <a name="C-0325"></a>Clases del 25/03/2020, miércoles
 ### Corrección de ejercicios
-Corrección de los ejercicios del 59 al 65.Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
-y os aparecerán las soluciones.  Mañana corregimos el 58 y del 66 al 70.
+Corrección de los ejercicios del 59 al 65. 
+Mañana corregimos el 58 y del 66 al 70.
 
 ## <a name="C-0326"></a>Clases del 26/03/2020, jueves
 ### Resolución de dudas
@@ -168,9 +162,7 @@ Ver todos las aclaraciones porque son confusiones muy habituales.
 
 
 ### Corrección de ejercicios
-Corrección de los ejercicios del 66 al 70.Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
-y os aparecerán las soluciones. 
+Corrección de los ejercicios del 66 al 70.
 
 
 ### Deberes
@@ -194,18 +186,14 @@ examen. Poneros un ejemplo tipo de cada uno y cualquier duda que tengáis no
 dudéis en poneros en contacto conmigo.
 
 ### Corrección de ejercicios
-Corrección de los ejercicios del 72 al 75.Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
-y os aparecerán las soluciones. 
+Corrección de los ejercicios del 72 al 75.
 
 ### Deberes
 Del 76 al 80.
 
 ## <a name="C-0331"></a>Clases del 31/03/2020, martes
 ### Corrección de ejercicios
-Corrección de los ejercicios del 76 al 80.Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
-y os aparecerán las soluciones. 
+Corrección de los ejercicios del 76 al 80.
 
 ### Deberes
 Del 82 al 87.
@@ -213,9 +201,7 @@ Del 82 al 87.
 
 ## <a name="C-0401"></a>Clases del 04/01/2020, miércoles
 ### Corrección de ejercicios
-Corrección de los ejercicios del 82 al 87.Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
-y os aparecerán las soluciones. 
+Corrección de los ejercicios del 82 al 87.
 
 ### Deberes
 Del 88 al 92.
@@ -226,9 +212,7 @@ Los que tenéis las matemáticas pendientes de primero, no las dejéis. Tenéis
 que estudiar y las sacaréis. Ánimo, que ya casi está acabado el curso.
 
 ### Corrección de ejercicios
-Corrección de los ejercicios del 88 al 92.Volver a descargaros el 
-[.pdf](https://drive.google.com/file/d/1l41GKui77i58VGFV2QfG4Y-DX6F2j0tC/view?usp=sharing)
-y os aparecerán las soluciones. 
+Corrección de los ejercicios del 88 al 92.
 
 
 **Fin del tema**
