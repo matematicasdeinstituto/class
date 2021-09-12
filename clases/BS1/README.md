@@ -57,6 +57,16 @@
 
 ### Examen número 6
 * Estadística descriptiva:
+  + Material explicación:
+    1. [Distribución salarial](distribucion_salarial.png).
+       Fuente: INE, año 2010.
+
+    2. [Distribución matrimonios por edad](distribucion_edad_matrimonios.png)
+       Fuente: INE.
+
+    3. [Distribución partos por edad de la madre](distribucion_edad_partos.png)
+       Fuente: INE.
+
   + Problemas de examen.
 
 * Distribuciones:
@@ -69,6 +79,6 @@
 
 # Páginas de interés
 
-* [INE (Instituto Nacional de Estadística(](www.ine.es)
+* [INE (Instituto Nacional de Estadística)](https://www.ine.es)
 * [Geogebra](https://www.geogebra.org/classic)
 
