@@ -147,6 +147,10 @@ papel en Amazon por 4-5 euros.
   pena verlos todos especialmente interesante puede ser el de `Frames of
   Reference` (nivel 2º de bachillerato?).
 
+* [The Secret Life of Machines](https://www.youtube.com/c/timhunkin1/featured)
+
+  Serie donde muestra la historia de diferentes máquinas que usamos de forma
+  habitual. Realizada por Tim Hunkin.
 
 ## Cursos online
 

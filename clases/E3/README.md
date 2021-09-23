@@ -49,8 +49,14 @@
 
 ### A más:
 
-[Aquí](../confinamiento/E3A/README.md) puedes encontrar las clases dadas
-durante los meses que estuvimos confinados en el curso 2019-20. Puedes
-encontrar el tema de probabilidad entero explicado, y un montón de ejercicios
-de repaso hechos.
+[Aquí](e3_pandemia_ct.pdf) puedes encontrar los ejercicios de repaso
+realizados durante la época del confinamiento del 2019-2020. Todos los
+ejercicios tienen un vídeo con la solución. Para poder pinchar en el link con
+la solución es necesario descargarse el pdf y abrirlo en el ordenador (o
+móvil).
+
+
+Las clases durante el confinamiento del curso 201-2020 las puedes encontrar 
+en este [link](../confinamiento/E3A/README.md). Son los ejercicios anteriores
+y el tema entero de probabibilidad.
 
