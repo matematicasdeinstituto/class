@@ -47,6 +47,11 @@
 ### Fin de curso
 * Repasando.
 
+
+# Criterios de calificación
+[Aquí](../criterios/criterios_calificacion.pdf) puedes encontrar los criterios
+de calificación de este curso. 
+
 ### A más:
 
 [Aquí](e3_pandemia_ct.pdf) puedes encontrar los ejercicios de repaso
