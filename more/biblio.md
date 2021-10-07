@@ -45,7 +45,7 @@ papel en Amazon por 4-5 euros.
 
      Libro enfocado desde un punto de vista experimental sobre el sonido.
 
-  + `Heat: a mode of motion`
+  + `Heat: a mode of motion` 
 
      Libro enfocado desde un punto de vista experimental sobre el calor.
 
@@ -67,6 +67,10 @@ papel en Amazon por 4-5 euros.
 
      Excelente exposición de la teoría clásica de la luz desde un punto
      divulgativo.
+
+* `Heat`, de R. T. Glazebrook.
+  
+  Libro enfocado desde un punto de vista experimental sobre el calor. 
 
 
 ## Electrónica
@@ -97,6 +101,10 @@ papel en Amazon por 4-5 euros.
 
 
 ## Divulgativa
+* [Office for Science and Society (Universidad de McGill)](https://www.mcgill.ca/oss/latest-content)
+
+  Artículos divulgativos.
+
 * `Physics and Technology for Future Presidents`, de Richard A. Muller.
 
    Conocimientos básicos de física para gente que no sabe matemáticas.
