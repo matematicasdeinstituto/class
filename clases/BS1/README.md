@@ -2,18 +2,11 @@
 
 ### Inicio de curso
 
-### Examen número 1
-* Números reales (repaso):
-  + [Ejercicios](bs1_numeros_e.pdf)
-  + [Problemas de examen](bs1_numeros_pe.pdf)
-
-* Tantos por cien (= matemática financiera):
-  + Material explicación: 
-    1. [Factura](factura.jpg) 
-    2. [Nómina](nomina.jpg)
-
+### Examen número 1: repaso ESO
+* Repaso conceptos básicos ESO:
   + [Ejercicios](bs1_tantos_por_cien_e.pdf)
-  + [Problemas de examen](bs1_tantos_por_cien_pe.pdf)
+  + [Ejercicios](bs1_numeros_e.pdf)
+  + [Problemas de examen](bs1_repaso_eso_pe.pdf)
 
 ### Examen número 2
 * Sistemas de ecuaciones:
