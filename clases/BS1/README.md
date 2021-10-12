@@ -6,16 +6,16 @@
 * Repaso conceptos básicos ESO:
   + [Ejercicios](bs1_tantos_por_cien_e.pdf)
   + [Ejercicios](bs1_numeros_e.pdf)
-  + [Problemas de examen](bs1_repaso_eso_pe.pdf)
+  + [Para preparar el examen](bs1_repaso_eso_pe.pdf)
 
 ### Examen número 2
 * Sistemas de ecuaciones:
   + [Ejercicios](bs1_ecuaciones_e.pdf)
-  + [Problemas de examen](bs1_ecuaciones_pe.pdf)
+  + [Para preparar el examen](bs1_ecuaciones_pe.pdf)
 
 * Inecuaciones:
   + [Ejercicios](bs1_inecuaciones_e.pdf)
-  + [Problemas de examen](bs1_inecuaciones_pe.pdf)
+  + [Para preparar el examen](bs1_inecuaciones_pe.pdf)
 
 * Límites de sucesiones:
   + Material explicación:
@@ -23,34 +23,34 @@
     2. [Parados (polígono de frecuencias)](parados_poligono.png)
 
   + [Ejercicios](bs1_sucesiones_e.pdf)
-  + [Problemas de examen](bs1_sucesiones_pe.pdf)
+  + [Para preparar el examen](bs1_sucesiones_pe.pdf)
 
 ### Examen número 3 (funciones)
 
 * Polinomios:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * La exponencial y el logarítmo. Ecuaciones.
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * Funciones:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 
 ### Examen número 4
 * Límites de funciones:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * Derivadas:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 
 ### Examen número 5
 * Binomio de Newton:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * Combinatoria y probabilidad:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 
 ### Examen número 6
@@ -65,11 +65,11 @@
     3. [Distribución partos por edad de la madre](distribucion_edad_partos.png)
        Fuente: INE.
 
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * Distribuciones:
   + [Tabla distribución normal](tabla_normal.png)
-  + Problemas de examen.
+  + Para preparar el examen.
 
 
 ### Fin de curso
