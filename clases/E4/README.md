@@ -5,7 +5,7 @@
 ### Examen número 1: potencias
 
 * Potencias:
-  + [Para preparar el examen](e4_potencias_pe.pdf)
+  + [Para preparar el examen](e4_examen01_pe.pdf)
 
 ### Examen número 2
 * Polinomios y fracciones algebráicas:

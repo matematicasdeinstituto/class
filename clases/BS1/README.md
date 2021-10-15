@@ -6,7 +6,7 @@
 * Repaso conceptos básicos ESO:
   + [Ejercicios](bs1_tantos_por_cien_e.pdf)
   + [Ejercicios](bs1_numeros_e.pdf)
-  + [Para preparar el examen](bs1_repaso_eso_pe.pdf)
+  + [Para preparar el examen](bs1_examen01_pe.pdf)
 
 ### Examen número 2
 * Sistemas de ecuaciones:

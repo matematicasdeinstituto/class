@@ -4,44 +4,46 @@
 
 ### Examen número 1
 * Números enteros (repaso):
-  + Problemas de examen.
+    + Ejercicios.
 
 * Números racionales (repaso):
-  + Problemas de examen.
+    + Ejercicios.
+
+* [Para preparar el examen](bs1_examen01_pe.pdf)
 
 ### Examen número 2
 * Tantos por cien:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * Proporciones:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 
 ### Examen número 3
 * Sucesiones:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * Polinomios:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 ### Examen número 4
 * Ecuaciones:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 ### Examen número 5
 * Funciones:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * Estadística:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 * Probabilidad:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 
 ### Examen número 6
 * Geometría:
-  + Problemas de examen.
+  + Para preparar el examen.
 
 
 ### Fin de curso
