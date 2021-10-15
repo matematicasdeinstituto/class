@@ -9,7 +9,7 @@
 * Números racionales (repaso):
     + Ejercicios.
 
-* [Para preparar el examen](bs1_examen01_pe.pdf)
+* [Para preparar el examen](e3_examen01_pe.pdf)
 
 ### Examen número 2
 * Tantos por cien:
