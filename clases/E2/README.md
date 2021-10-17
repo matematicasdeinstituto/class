@@ -4,40 +4,39 @@
 * Repasando
 
 ### Examen número 1
+* Números naturales (repaso).
+* Números enteros (repaso).
+* Reglas de 3 (repaso).
 
-* Números naturales (repaso):
-  + Problemas de examen
-
-* Números enteros (repaso):
-  + Problemas de examen
+* [Para preparar el examen](e2_examen01_pe.pdf)
 
 ### Examen número 2
 * Fracciones y números decimales
-  + Problemas de examen
+  + Para preparar el examen
 
 ### Examen número 3
 * Tantos por cien y proporciones
-  + Problemas de examen
+  + Para preparar el examen
 
 * Ecuaciones de primer grado (I)
-  + Problemas de examen
+  + Para preparar el examen
 
 ### Examen número 4
 * Ecuaciones de primer grado (II), de segundo y sistemas 2x2
-  + Problemas de examen
+  + Para preparar el examen
 
 
 ### Examen número 5
 * Polinomios.
-  + Problemas de examen
+  + Para preparar el examen
 
 * Funciones.
-  + Problemas de examen
+  + Para preparar el examen
 
 
 ### Examen número 6
 * Geometría:
-  + Problemas de examen
+  + Para preparar el examen
 
 
 ### Fin de curso

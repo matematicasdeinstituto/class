@@ -19,8 +19,8 @@
 
 * Límites de sucesiones:
   + Material explicación:
-    1. [Parados (diagrama barras)](parados_barras.png)
-    2. [Parados (polígono de frecuencias)](parados_poligono.png)
+    1. [Parados (diagrama barras)](explicacion/parados_barras.png)
+    2. [Parados (polígono de frecuencias)](explicacion/parados_poligono.png)
 
   + [Ejercicios](bs1_sucesiones_e.pdf)
   + [Para preparar el examen](bs1_sucesiones_pe.pdf)
