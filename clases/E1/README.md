@@ -6,6 +6,10 @@
 * Números naturales:
   + Problemas de examen
 
+  + Opcional:
+   [Prime shooter](http://thinkinghard.com/math/integers/PrimeShooter.html):
+   Juego para practicar la factorización de los números primos.
+
 * Números enteros (I):
   + Problemas de examen
 

@@ -37,6 +37,8 @@
 * Estadística descriptiva:
   + Para preparar el examen.
 
+* Opcional (no entra):
+  + [Conditional Probability](https://youtu.be/JGeTcRfKgBo)
 
 
 ### Fin de curso

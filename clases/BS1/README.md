@@ -4,8 +4,7 @@
 
 ### Examen número 1: repaso ESO
 * Repaso conceptos básicos ESO:
-  + [Ejercicios](bs1_tantos_por_cien_e.pdf)
-  + [Ejercicios](bs1_numeros_e.pdf)
+  + Ejercicios
   + [Para preparar el examen](bs1_examen01_pe.pdf)
 
 ### Examen número 2

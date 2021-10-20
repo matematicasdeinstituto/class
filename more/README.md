@@ -322,4 +322,3 @@ concurso? Los típicos de instituto son:
 * [Olimpiadas matemáticas (ESO)](http://www.socylem.es/sitio/index.php/problemas-olimpiadas-phoca)
 
 
-
