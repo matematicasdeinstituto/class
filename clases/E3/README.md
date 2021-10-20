@@ -63,7 +63,7 @@ la solución es necesario descargarse el pdf y abrirlo en el ordenador (o
 móvil).
 
 
-Las clases durante el confinamiento del curso 201-2020 las puedes encontrar 
+Las clases durante el confinamiento del curso 2019-2020 las puedes encontrar 
 en este [link](../confinamiento/E3A/README.md). Son los ejercicios anteriores
 y el tema entero de probabibilidad.
 

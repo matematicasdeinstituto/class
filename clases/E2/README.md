@@ -16,32 +16,35 @@
 
 
 ### Examen número 2
-* Fracciones y números decimales
-  + Para preparar el examen
+* Fracciones y números decimales (repaso)
+* Tantos por cien (repaso)
+* Reglas de 3 (repaso)
+
+* Para preparar el examen
 
 ### Examen número 3
-* Tantos por cien y proporciones
-  + Para preparar el examen
 
-* Ecuaciones de primer grado (I)
-  + Para preparar el examen
+* Ecuaciones de primer grado.
+* Para preparar el examen
 
 ### Examen número 4
-* Ecuaciones de primer grado (II), de segundo y sistemas 2x2
-  + Para preparar el examen
+* Ecuaciones de segundo grado.
+* Sistemas de ecuaciones 2x2.
+
+* Para preparar el examen
 
 
 ### Examen número 5
 * Polinomios.
-  + Para preparar el examen
-
 * Funciones.
-  + Para preparar el examen
+
+* Para preparar el examen
 
 
 ### Examen número 6
-* Geometría:
-  + Para preparar el examen
+* Geometría.
+
+* Para preparar el examen
 
 
 ### Fin de curso
