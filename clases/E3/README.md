@@ -12,39 +12,33 @@
 * [Para preparar el examen](e3_examen01_pe.pdf)
 
 ### Examen número 2
-* Tantos por cien:
-  + Para preparar el examen.
-
-* Proporciones:
-  + Para preparar el examen.
+* Tantos por cien.
+* Proporciones.
+* Para preparar el examen.
 
 
 ### Examen número 3
-* Sucesiones:
-  + Para preparar el examen.
+* Sucesiones.
+* Polinomios.
 
-* Polinomios:
-  + Para preparar el examen.
+* Para preparar el examen.
 
 ### Examen número 4
-* Ecuaciones:
-  + Para preparar el examen.
+* Ecuaciones.
+
+* Para preparar el examen.
 
 ### Examen número 5
-* Funciones:
-  + Para preparar el examen.
+* Funciones.
+* Estadística.
+* Probabilidad.
 
-* Estadística:
-  + Para preparar el examen.
-
-* Probabilidad:
-  + Para preparar el examen.
-
+* Para preparar el examen.
 
 ### Examen número 6
-* Geometría:
-  + Para preparar el examen.
+* Geometría.
 
+* Para preparar el examen.
 
 ### Fin de curso
 * Repasando.
