@@ -11,8 +11,8 @@
 * [Para preparar el examen](e2_examen01_pe.pdf)
 
 * Opcional:
-  [Prime shooter](http://thinkinghard.com/math/integers/PrimeShooter.html):
-  Juego para practicar la factorización de los números primos.
+  * [Prime shooter](http://thinkinghard.com/math/integers/PrimeShooter.html):
+    Juego para practicar la factorización de los números primos.
 
 
 ### Examen número 2
