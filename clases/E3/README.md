@@ -14,7 +14,7 @@
 ### Examen número 2
 * Tantos por cien.
 * Proporciones.
-* Para preparar el examen.
+* [Para preparar el examen](e3_examen02_pe.pdf)
 
 * Opcional (no entra):
   + [Ejercicios de acceso a grado medio](e3_proporciones_gm.pdf)
