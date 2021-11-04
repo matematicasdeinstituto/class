@@ -21,7 +21,7 @@
 * Reglas de 3 (repaso)
 
 * [Para preparar el examen](e2_examen02_pe.pdf)
-* [Ejercicios a más para practicar](e2_examen02_mas.pdf)
+* :construction: [Ejercicios a más para practicar](e2_examen02_mas.pdf)
 
 ### Examen número 3
 
@@ -56,3 +56,10 @@
 # Criterios de calificación
 [Aquí](../criterios/criterios_calificacion.pdf) puedes encontrar los criterios
 de calificación de este curso. 
+
+# Recursos
+
+* [GeoGebra](http://www.geogebra.org/): programa para dibujar funciones y
+  hacer cosas de geometría.
+
+
