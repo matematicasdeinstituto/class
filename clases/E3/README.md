@@ -16,6 +16,8 @@
 * Proporciones.
 * Para preparar el examen.
 
+* Opcional (no entra):
+  + [Ejercicios de acceso a grado medio](e3_proporciones_gm.pdf)
 
 ### Examen número 3
 * Sucesiones.
