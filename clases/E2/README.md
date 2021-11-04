@@ -20,7 +20,8 @@
 * Tantos por cien (repaso)
 * Reglas de 3 (repaso)
 
-* Para preparar el examen
+* [Para preparar el examen](e2_examen02_pe.pdf)
+* [Ejercicios a más para practicar](e2_examen02_mas.pdf)
 
 ### Examen número 3
 
