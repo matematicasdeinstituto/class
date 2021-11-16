@@ -9,7 +9,7 @@
 
 ### Examen número 2
 * Polinomios y fracciones algebráicas:
-  + Para preparar el examen.
+  + [Para preparar el examen](e4_examen02_pe.pdf)
 
 ### Examen número 3
 * Ecuaciones:
