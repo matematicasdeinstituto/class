@@ -14,6 +14,7 @@
 ### Examen número 2
 * Tantos por cien.
 * Proporciones.
+* Repaso ecuaciones.
 * [Para preparar el examen](e3_examen02_pe.pdf)
 
 * Opcional (no entra):
@@ -26,7 +27,7 @@
 * Para preparar el examen.
 
 ### Examen número 4
-* Ecuaciones.
+* Ecuaciones. Problemas.
 
 * Para preparar el examen.
 
