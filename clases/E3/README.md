@@ -1,6 +1,9 @@
 # 3º de la ESO
 
 ### Inicio de curso
+* Repaso ideas clave del curso:
+  1. Ecuaciones.
+  2. Identidades notables.
 
 ### Examen número 1
 * Números enteros (repaso):
@@ -9,12 +12,15 @@
 * Números racionales (repaso):
     + Ejercicios.
 
+* Ecuaciones de primer grado (repaso).
+
 * [Para preparar el examen](e3_examen01_pe.pdf)
 
 ### Examen número 2
 * Tantos por cien.
 * Proporciones.
-* Repaso ecuaciones.
+* Ecuaciones de primer y segundo grado (repaso).
+
 * [Para preparar el examen](e3_examen02_pe.pdf)
 
 * Opcional (no entra):
@@ -23,11 +29,15 @@
 ### Examen número 3
 * Sucesiones.
 * Polinomios.
+* Ecuaciones de primer y segundo grado. Sistemas 2 x 2 (repaso).
 
 * Para preparar el examen.
 
 ### Examen número 4
-* Ecuaciones. Problemas.
+* Ecuaciones. 
+* Problemas.
+
+* Identidades notables (repaso).
 
 * Para preparar el examen.
 
