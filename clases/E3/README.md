@@ -37,8 +37,6 @@
 * Ecuaciones. 
 * Problemas.
 
-* Identidades notables (repaso).
-
 * Para preparar el examen.
 
 ### Examen número 5
