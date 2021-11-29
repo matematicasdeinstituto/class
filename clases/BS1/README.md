@@ -9,20 +9,12 @@
 
 ### Examen número 2
 * Sistemas de ecuaciones:
-  + [Ejercicios](bs1_ecuaciones_e.pdf)
-  + [Para preparar el examen](bs1_ecuaciones_pe.pdf)
+  + [Imprimir y llevar a clase](bs1_ecuaciones_tc.pdf)
 
-* Inecuaciones:
-  + [Ejercicios](bs1_inecuaciones_e.pdf)
-  + [Para preparar el examen](bs1_inecuaciones_pe.pdf)
+* Inecuaciones.
+* Límites de sucesiones.
 
-* Límites de sucesiones:
-  + Material explicación:
-    1. [Parados (diagrama barras)](explicacion/parados_barras.png)
-    2. [Parados (polígono de frecuencias)](explicacion/parados_poligono.png)
-
-  + [Ejercicios](bs1_sucesiones_e.pdf)
-  + [Para preparar el examen](bs1_sucesiones_pe.pdf)
+* [Para preparar el examen](bs1_examen02_pe.pdf)
 
 ### Examen número 3 (funciones)
 
