@@ -8,7 +8,7 @@
 
 * [Para preparar el examen](bs1_examen01_pe.pdf)
 
-### Examen número 2
+### Examen número 2: ecuaciones
 * Temas:
    * Sistemas de ecuaciones:
    * Inecuaciones.
@@ -17,7 +17,7 @@
 * [Imprimir y llevar a clase](bs1_ecuaciones_tc.pdf)
 * [Para preparar el examen](bs1_examen02_pe.pdf)
 
-### Examen número 3 (funciones)
+### Examen número 3: funciones
 
 * Temas:
    * Polinomios.
@@ -28,23 +28,23 @@
 * [Para preparar el examen](bs1_examen03_pe.pdf)
 
 
-### Examen número 4
-* Límites de funciones:
-  + Para preparar el examen.
+### Examen número 4: derivadas
+* Temas:
+   * Límites de funciones.
+   * Derivadas.
 
-* Derivadas:
-  + Para preparar el examen.
-
-
-### Examen número 5
-* Binomio de Newton:
-  + Para preparar el examen.
-
-* Combinatoria y probabilidad:
-  + Para preparar el examen.
+* Para preparar el examen.
 
 
-### Examen número 6
+### Examen número 5: probabilidad
+* Temas:
+   * Binomio de Newton.
+   * Combinatoria y probabilidad.
+
+* Para preparar el examen.
+
+
+### Examen número 6: estadística
 * Estadística descriptiva:
   + Material explicación:
     1. [Distribución salarial](distribucion_salarial.png).
