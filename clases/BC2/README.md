@@ -17,8 +17,9 @@
 
 
 ### A más:
+* [Ejercicios EBAU Salamanca](EBAU)
 
-[Aquí](../confinamiento/BC2/README.md) puedes encontrar las clases dadas
+* [Aquí](../confinamiento/BC2/README.md) puedes encontrar las clases dadas
 durante los meses que estuvimos confinados en el curso 2019-20. Puedes
 encontrar parte del tema de integrales, y los temas enteros de probabilidad y
 estadística.
