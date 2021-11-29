@@ -3,23 +3,26 @@
 ### Inicio de curso
 
 ### Examen número 1: repaso ESO
-* Repaso conceptos básicos ESO.
+* Temas:
+   * Repaso conceptos básicos ESO.
 
 * [Para preparar el examen](bs1_examen01_pe.pdf)
 
 ### Examen número 2
-* Sistemas de ecuaciones:
-* Inecuaciones.
-* Límites de sucesiones.
+* Temas:
+   * Sistemas de ecuaciones:
+   * Inecuaciones.
+   * Límites de sucesiones.
 
 * [Imprimir y llevar a clase](bs1_ecuaciones_tc.pdf)
 * [Para preparar el examen](bs1_examen02_pe.pdf)
 
 ### Examen número 3 (funciones)
 
-* Polinomios.
-* La exponencial y el logarítmo. Ecuaciones.
-* Funciones.
+* Temas:
+   * Polinomios.
+   * La exponencial y el logarítmo. Ecuaciones.
+   * Funciones.
 
 * [Imprimir y llevar a clase](bs1_funciones_tc.pdf)
 * [Para preparar el examen](bs1_examen03_pe.pdf)
