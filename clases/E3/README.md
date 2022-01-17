@@ -27,21 +27,20 @@
   + [Ejercicios de acceso a grado medio](e3_proporciones_gm.pdf)
 
 ### Examen número 3
+* Ecuaciones de primer y segundo grado. Sistemas 2 x 2 (repaso).
 * Sucesiones.
 * Polinomios.
-* Ecuaciones de primer y segundo grado. Sistemas 2 x 2 (repaso).
 
 * Para preparar el examen.
 
 ### Examen número 4
-* Ecuaciones. 
-* Problemas.
+* Ecuaciones y problemas.
+* Estadística.
 
 * Para preparar el examen.
 
 ### Examen número 5
 * Funciones.
-* Estadística.
 * Probabilidad.
 
 * Para preparar el examen.

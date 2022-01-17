@@ -19,7 +19,7 @@
 * Temas:
    * Ecuaciones.
 
-* Para preparar el examen.
+* [Para preparar el examen](e4_examen03_pe.pdf)
 
 ### Examen número 4: geometría
 * Temas:
