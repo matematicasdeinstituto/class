@@ -71,3 +71,9 @@ Las clases durante el confinamiento del curso 2019-2020 las puedes encontrar
 en este [link](../confinamiento/E3A/README.md). Son los ejercicios anteriores
 y el tema entero de probabibilidad.
 
+
+# Páginas de interés
+
+* [INE (Instituto Nacional de Estadística)](https://www.ine.es)
+* [Geogebra](https://www.geogebra.org/classic)
+

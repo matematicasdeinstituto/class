@@ -56,3 +56,8 @@
 de calificación de este curso. 
 
 
+# Páginas de interés
+
+* [INE (Instituto Nacional de Estadística)](https://www.ine.es)
+* [Geogebra](https://www.geogebra.org/classic)
+
