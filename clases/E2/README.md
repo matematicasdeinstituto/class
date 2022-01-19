@@ -26,7 +26,8 @@
 ### Examen número 3
 
 * Ecuaciones de primer grado.
-* Para preparar el examen
+* [Para preparar el examen](e2_examen03_pe.pdf)
+
 
 ### Examen número 4
 * Ecuaciones de segundo grado.
