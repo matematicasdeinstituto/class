@@ -6,20 +6,19 @@
   2. Identidades notables.
 
 ### Examen número 1
-* Números enteros (repaso):
-    + Ejercicios.
-
-* Números racionales (repaso):
-    + Ejercicios.
-
-* Ecuaciones de primer grado (repaso).
+* Temas:
+    * Números enteros (repaso).
+    * Números racionales (repaso).
+    * Identidades notables (repaso).
+    * Ecuaciones de segundo grado (repaso).
 
 * [Para preparar el examen](e3_examen01_pe.pdf)
 
 ### Examen número 2
-* Tantos por cien.
-* Proporciones.
-* Ecuaciones de primer y segundo grado (repaso).
+* Temas:
+    * Tantos por cien.
+    * Proporciones.
+    * Ecuaciones de primer y segundo grado (repaso).
 
 * [Para preparar el examen](e3_examen02_pe.pdf)
 
@@ -27,26 +26,32 @@
   + [Ejercicios de acceso a grado medio](e3_proporciones_gm.pdf)
 
 ### Examen número 3
-* Ecuaciones de primer y segundo grado. Sistemas 2 x 2 (repaso).
-* Sucesiones.
-* Polinomios.
+* Temas:
+    * Ecuaciones de primer y segundo grado. Sistemas 2 x 2 (repaso).
+    * Sucesiones.
+    * Polinomios.
 
-* Para preparar el examen.
+* [Para preparar el examen](e3_examen03_pe.pdf)
 
 ### Examen número 4
-* Ecuaciones y problemas.
-* Estadística.
+* Temas:
+    * Ecuaciones y problemas.
+    * Estadística.
+
+* [Imprimir y llevar a clase](e3_problemas_tc.pdf)
 
 * Para preparar el examen.
 
 ### Examen número 5
-* Funciones.
-* Probabilidad.
+* Temas:
+    * Funciones.
+    * Probabilidad.
 
 * Para preparar el examen.
 
 ### Examen número 6
-* Geometría.
+* Temas:
+    * Geometría.
 
 * Para preparar el examen.
 
