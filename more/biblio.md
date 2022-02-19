@@ -1,4 +1,9 @@
-# Bibliografía
+# Indice
+* [Libros](#I-libros)
+* [Videos](#I-videos)
+* [Algunos links de interes](#I-critica)
+
+# <a name="I-libros"></a>Libros
 
 Uno de los problemas que uno se encuentra cuando quiere aprender una materia
 es no saber por dónde empezar. Si bien ahora tenemos internet, la realidad es
@@ -115,6 +120,37 @@ papel en Amazon por 4-5 euros.
   energía.
 
 
+
+
+## Libros gratuitos
+
+* [archive](https://archive.org/index.php)
+
+  Son libros escaneados procedentes de bibliotecas. 
+
+
+
+# <a name="I-videos"></a>Vídeos
+
+## Cursos online
+
+Se pueden encontrar diferentes plataformas de cursos online. Algunas de ellas
+son:
+
+* [edx](https://www.edx.org/)
+  
+  Los cursos son gratuitos (si eliges la opción free). Ahora dan una opción de
+  pago con la que, creo, te dan un título (que desconozco si servirá para
+  algo). La versión gratuita funciona bien.
+  
+
+* [coursera](https://www.coursera.org/)
+
+  Plataforma parecida a `edx`.
+
+A parte de estas 2 hay más (udacity, miriadax...). Cotillea si tienes interés.
+
+
 ## Vídeos
 * [Bruce Yeany](https://www.youtube.com/user/YeanyScience/featured):
 
@@ -135,6 +171,10 @@ papel en Amazon por 4-5 euros.
   tabla periódica.
 
 * [Christmas Lectures de la Royal Institution](https://www.rigb.org/christmas-lectures)
+
+  Charlas divulgativas de todo tipo.
+
+* [Charlas de la Royal Institution](https://www.youtube.com/c/TheRoyalInstitution/videos)
 
   Charlas divulgativas de todo tipo.
 
@@ -160,29 +200,27 @@ papel en Amazon por 4-5 euros.
   Serie donde muestra la historia de diferentes máquinas que usamos de forma
   habitual. Realizada por Tim Hunkin.
 
-## Cursos online
-
-Se pueden encontrar diferentes plataformas de cursos online. Algunas de ellas
-son:
-
-* [edx](https://www.edx.org/)
+* [MIT K12 videos](https://www.youtube.com/c/MITK12Videos/videos)
   
-  Los cursos son gratuitos (si eliges la opción free). Ahora dan una opción de
-  pago con la que, creo, te dan un título (que desconozco si servirá para
-  algo). La versión gratuita funciona bien.
-  
+  Videos del MIT. Todos los niveles.
 
-* [coursera](https://www.coursera.org/)
+* [MIT opencourseware (youtube)](https://www.youtube.com/c/mitocw/featured)
 
-  Plataforma parecida a `edx`.
+  Cursos del MIT. Cuidado: la mayoría son ya cursos de primeros cursos de
+  carrera.
 
-A parte de estas 2 hay más (udacity, miriadax...). Cotillea si tienes interés.
+  Puede ser interesante visitar su [página web](https://ocw.mit.edu) donde se
+  pueden descargar libros totalmente gratuitos de diferentes materias. 
 
 
-## Libros gratuitos
+# <a name="I-critica"></a>Algunos links de interes
 
-* [archive](https://archive.org/index.php)
+* [Ranking de Shangai](http://www.shanghairanking.com/)
 
-  Son libros escaneados procedentes de bibliotecas. 
+  ¿Quieres saber si una universidad es buena? El ranking de Shangai es uno de
+  los rankings usados para saberlo.
 
+* [Office for Science and Society (Universidad de McGill)](https://www.mcgill.ca/oss/)
+
+  Artículos y vídeos de ciencias de la salud.
 
