@@ -8,6 +8,9 @@
 
 * [Para preparar el examen](e4_examen01_pe.pdf)
 
+* Opcional (no entra):
+  [Visualizando el pH](https://youtu.be/Dpu3v3TmjQs)
+
 
 ### Examen número 2: polinomios
 * Temas:
@@ -29,7 +32,13 @@
 
 * Para preparar el examen.
 
+* Opcional (no entra):
+  + [Duplicando un cuadrado](https://youtu.be/L-MnaaRyzG8)
+  + [Duplicando un cubo](https://youtu.be/8yqOvBzQPww)
+  + [Suma de dos vectores](https://youtu.be/COlX9W3rp2w)
+  + [Resta de dos vectores](https://youtu.be/g50ZF1hPtnQ)
 
+  
 ### Examen número 5: funciones
 * Temas:
    * Funciones.

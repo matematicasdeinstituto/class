@@ -33,6 +33,9 @@
 
 * [Para preparar el examen](e3_examen03_pe.pdf)
 
+* Opcional (no entra):
+  + [División celular](https://youtu.be/oubTid0i5jA)
+
 ### Examen número 4
 * Temas:
     * Ecuaciones y problemas.
@@ -49,11 +52,22 @@
 
 * Para preparar el examen.
 
+* Opcional (no entra):
+  + [Proporcionalidad inversa. ¿Cómo respiramos?](https://youtu.be/4CyvBnq28LM)
+
 ### Examen número 6
 * Temas:
     * Geometría.
 
 * Para preparar el examen.
+
+* Opcional (no entra):
+  + [Trazado de la mediatriz](https://youtu.be/2Dn_BT6X4Ak)
+  + [Trazado de la bisectriz](https://youtu.be/NJHLqp1Ga_Q)
+  + [Trazado de una elipse](https://youtu.be/MoWmipt6gB4)
+  + [1 litro = 1 dm^3?](https://youtu.be/W6N2ZBYb8Yc)
+  + [Un problema de Galileo](https://youtu.be/TbscoMKn6FY)
+
 
 ### Fin de curso
 * Repasando.
