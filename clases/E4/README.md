@@ -9,7 +9,7 @@
 * [Para preparar el examen](e4_examen01_pe.pdf)
 
 * Opcional (no entra):
-  [Visualizando el pH](https://youtu.be/Dpu3v3TmjQs)
+  + [Visualizando el pH](https://youtu.be/Dpu3v3TmjQs)
 
 
 ### Examen número 2: polinomios
@@ -30,7 +30,7 @@
    * Trigonometría.
    * Geometría analítica.
 
-* Para preparar el examen.
+* [Para preparar el examen](e4_examen04_pe.pdf)
 
 * Opcional (no entra):
   + [Duplicando un cuadrado](https://youtu.be/L-MnaaRyzG8)
