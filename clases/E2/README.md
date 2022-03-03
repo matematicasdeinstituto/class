@@ -35,9 +35,8 @@
 ### Examen número 4
 * Temas:
     * Ecuaciones de segundo grado.
-    * Sistemas de ecuaciones 2x2.
 
-* Para preparar el examen
+* [Para preparar el examen](e2_examen04_pe.pdf)
 
 
 ### Examen número 5
@@ -50,6 +49,7 @@
 
 ### Examen número 6
 * Temas:
+    * Sistemas de ecuaciones 2x2.
     * Geometría.
 
 * Para preparar el examen
