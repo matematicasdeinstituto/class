@@ -43,7 +43,7 @@
 
 * [Imprimir y llevar a clase](e3_problemas_tc.pdf)
 
-* Para preparar el examen.
+* Para preparar el examen: hay un montón de ejericios en la hoja de problemas.
 
 ### Examen número 5
 * Temas:

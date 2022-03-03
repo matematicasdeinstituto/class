@@ -33,7 +33,7 @@
    * Límites de funciones.
    * Derivadas.
 
-* Para preparar el examen.
+* [Para preparar el examen](bs1_examen04_pe.pdf)
 
 
 ### Examen número 5: probabilidad
