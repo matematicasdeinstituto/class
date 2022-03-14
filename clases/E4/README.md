@@ -45,6 +45,10 @@
 
 * Para preparar el examen.
 
+* Opcional (no entra):
+  + [Señal vista por un osciloscopio de un diapasón](https://youtu.be/VlaDbnblb-M)
+
+
 ### Examen número 6: estadística y probabilidad
 * Temas:
    * Combinatoria y probabilidad.
