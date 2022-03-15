@@ -43,6 +43,7 @@
 * Temas:
    * Funciones.
 
+* [Imprimir y llevar a clase](e4_funciones_tc.pdf)
 * Para preparar el examen.
 
 * Opcional (no entra):
