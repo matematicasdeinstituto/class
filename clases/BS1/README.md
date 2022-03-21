@@ -41,6 +41,8 @@
    * Binomio de Newton.
    * Combinatoria y probabilidad.
 
+* [Imprimir y llevar a clase](bs1_probabilidad_tc.pdf)
+
 * Para preparar el examen.
 
 
