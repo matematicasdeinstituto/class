@@ -44,7 +44,7 @@
     * Polinomios.
     * Funciones.
 
-* Para preparar el examen
+* [Para preparar el examen](e2_examen05_pe.pdf)
 
 
 ### Examen número 6
