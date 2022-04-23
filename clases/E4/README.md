@@ -44,7 +44,7 @@
    * Funciones.
 
 * [Imprimir y llevar a clase](e4_funciones_tc.pdf)
-* Para preparar el examen.
+* [Para preparar el examen](e4_examen05_pe.pdf)
 
 * Opcional (no entra):
   + [Señal vista por un osciloscopio de un diapasón](https://youtu.be/VlaDbnblb-M)
