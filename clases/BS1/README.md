@@ -43,7 +43,7 @@
 
 * [Imprimir y llevar a clase](bs1_probabilidad_tc.pdf)
 
-* Para preparar el examen.
+* [Para preparar el examen](bs1_examen05_pe.pdf)
 
 
 ### Examen número 6: estadística
