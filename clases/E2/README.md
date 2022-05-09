@@ -52,6 +52,8 @@
     * Sistemas de ecuaciones 2x2.
     * Geometría.
 
+* [Llevar a clase](e2_geo_tales_tc.pdf)
+
 * Para preparar el examen
 
 
