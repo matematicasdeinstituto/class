@@ -63,7 +63,8 @@
    * Distribuciones:
       + Material explicación:
         1. [Probabilidad como área debajo de una curva](https://youtu.be/ATSXskbaii8)
-	2. [Distribución normal como límite de la binomial](https://youtu.be/ZSmyEW6mxd4)
+        2. [Distribución normal como límite de la binomial](https://youtu.be/ZSmyEW6mxd4)
+
       + [Tabla distribución normal](explicacion/tabla_normal.png)
 
 * Para preparar el examen.
